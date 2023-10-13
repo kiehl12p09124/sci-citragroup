@@ -1,0 +1,128 @@
+        body .margin {
+            width: 98%;
+            margin: 2% 2% 1%;
+            font-size: 115%;
+            font-family: 'Times New Roman';
+        }
+
+        .main {
+            position: relative;
+            width: 93%;
+            margin-top: 1%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .kop img {
+            width: 100%;
+        }
+
+        .header-surat {
+            font-size: 100%;
+            width: 100%;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        /* .header-surat table tr {
+            padding: 0.5%;
+            width: 100%;
+        } */
+
+
+        .detail {
+            border: black solid 2px;
+        }
+
+        .detail-title {
+            text-align: center;
+            text-decoration: underline;
+            /* font-weight: bold; */
+        }
+
+        #logo {
+            width: 50%;
+        }
+
+        .cap-surat-kiri {
+            width: 25%;
+            float: left;
+            margin-left: 2%;
+        }
+
+        .cap-surat-kanan {
+            width: 25%;
+            float: right;
+        }
+
+        .cap-surat {
+            text-align: center;
+
+        }
+
+        .cap-surat img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .jarak {
+            margin-top: 10%;
+        }
+
+        ol li {
+            margin-top: 0.5%;
+        }
+
+        /* tabel detail */
+        .detail-table {
+            width: 100%;
+            /* margin-top: 1px; */
+            margin-bottom: 3px;
+        }
+
+        .detail-table thead {
+            font-weight: bold;
+        }
+
+        .detail-table td {
+            border: 2px black solid;
+            padding: 1px;
+            text-align: center;
+        }
+
+        /* keterangan akhir */
+        .keterangan {
+            float: left;
+            width: 50%;
+            border-bottom: 2px solid black;
+        }
+
+
+
+        .terbilang {
+            display: inline;
+            border: 2px solid black;
+            padding: 0.4% 0.8%;
+        }
+
+        /* Notes */
+
+        .notes {
+            width: 100%;
+            /* border-top: 2px solid black; */
+            border-bottom: 2px solid black;
+        }
+        .notes ol li{
+            padding: 0px;
+            margin: -5px;
+        }
+
+        hr.nama {
+            border-top: 2px solid black;
+            margin-left: 15%;
+            margin-right: 10%;
+        }
+
